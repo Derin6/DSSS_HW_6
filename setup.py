@@ -25,7 +25,7 @@
     "    author=\"DSSS\",\n",
     "    author_email=\"derin.cakiroglu@fau.de\",\n",
     "    packages=find_packages(),\n",
-    "    install_requires[\"numpy\",\"turtles\"],\n",
+    "    install_requires=[\"numpy\",\"turtles\"],\n",
     "\n",
     "\n",
     ")"
