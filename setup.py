@@ -3,7 +3,6 @@
 
 # In[6]:
 
-
 from distutils.core import setup
 from setuptools import find_packages
 
@@ -13,11 +12,11 @@ setup (
     author="DSSS",
     author_email="derin.cakiroglu@fau.de",
     packages=find_packages(),
-    install_requires=["numpy","turtles"],
+    install_requires=["numpy","turtles"]
 
 
-    )
 
+)
 
 # In[ ]:
 
